@@ -7,22 +7,22 @@
 <br>
 
 <p align="center">
-<kbd><img src="pictures/ecommerce_data.png" width=650px> </kbd> <br>
-
-
-
-Pada satu tahun terakhir, perusahaan hanya menghasilkan conversion rate (revenue true) sebesar 15% dari pelanggan yang mengunjungi website.
-
+  <kbd><img src="Images/E-commerce Conversion Rate.png" width=500px></kbd><br>
+  Image 1. E-commerce Conversion Rate for Every Insdustry
+  </p>
+  
 ### Objectives
+- Getting insight from the customers data by doing Exploratory Data Analysis (EDA).
+- Predicting the website visitor intention to buy or not
+- Giving business recommendation for the e-commerce company business problem
+
 ### Goals
+- Creating machine learning model which could predict the online shoppers intention to buy or not and giving opportunity to make more revenue
+- By doing the business recommendation, expected the conversion rate would increase up to 28%
+
 ### Business Matrics
+- Revenue
+- Conversion Rate
 
-
-
-<p align="center"> Hello
-
-# Aku kebingungan
----
-
-<p align="center">
-  Tabel 1 – Ringkasan Dataset<br>
+## Stage 1: Exploratory Data Analysis
+### Dataset
