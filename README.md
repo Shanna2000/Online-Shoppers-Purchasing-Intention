@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-![E-commerce Conversion Rate](https://user-images.githubusercontent.com/114322075/222944421-05a86569-162f-4e14-b96a-1f195898baf7.png)
+<kbd><img src="pictures/ecommerce_data.png" width=650px> </kbd> <br>
 
 
 
